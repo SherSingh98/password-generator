@@ -31,6 +31,3 @@ If you want to customize the character set used for generating the password, you
 - However, it's important to note that the security of the password also depends on how it is stored and transmitted. Make sure to follow secure practices when handling and storing passwords.
 - Avoid using the same password for multiple accounts or services. It's recommended to use a unique password for each account to minimize the impact of a potential security breach.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
